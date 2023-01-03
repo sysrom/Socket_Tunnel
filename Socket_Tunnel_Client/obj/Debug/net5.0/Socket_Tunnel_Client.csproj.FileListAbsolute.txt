@@ -1,0 +1,16 @@
+C:\Users\SYSTEM ERROR\source\repos\Socket_Tunnel\Socket_Tunnel_Client\bin\Debug\net5.0\Socket_Tunnel_Client.exe
+C:\Users\SYSTEM ERROR\source\repos\Socket_Tunnel\Socket_Tunnel_Client\bin\Debug\net5.0\Socket_Tunnel_Client.deps.json
+C:\Users\SYSTEM ERROR\source\repos\Socket_Tunnel\Socket_Tunnel_Client\bin\Debug\net5.0\Socket_Tunnel_Client.runtimeconfig.json
+C:\Users\SYSTEM ERROR\source\repos\Socket_Tunnel\Socket_Tunnel_Client\bin\Debug\net5.0\Socket_Tunnel_Client.runtimeconfig.dev.json
+C:\Users\SYSTEM ERROR\source\repos\Socket_Tunnel\Socket_Tunnel_Client\bin\Debug\net5.0\Socket_Tunnel_Client.dll
+C:\Users\SYSTEM ERROR\source\repos\Socket_Tunnel\Socket_Tunnel_Client\bin\Debug\net5.0\Socket_Tunnel_Client.pdb
+C:\Users\SYSTEM ERROR\source\repos\Socket_Tunnel\Socket_Tunnel_Client\obj\Debug\net5.0\Socket_Tunnel_Client.csproj.AssemblyReference.cache
+C:\Users\SYSTEM ERROR\source\repos\Socket_Tunnel\Socket_Tunnel_Client\obj\Debug\net5.0\Socket_Tunnel_Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SYSTEM ERROR\source\repos\Socket_Tunnel\Socket_Tunnel_Client\obj\Debug\net5.0\Socket_Tunnel_Client.AssemblyInfoInputs.cache
+C:\Users\SYSTEM ERROR\source\repos\Socket_Tunnel\Socket_Tunnel_Client\obj\Debug\net5.0\Socket_Tunnel_Client.AssemblyInfo.cs
+C:\Users\SYSTEM ERROR\source\repos\Socket_Tunnel\Socket_Tunnel_Client\obj\Debug\net5.0\Socket_Tunnel_Client.csproj.CoreCompileInputs.cache
+C:\Users\SYSTEM ERROR\source\repos\Socket_Tunnel\Socket_Tunnel_Client\obj\Debug\net5.0\Socket_Tunnel_Client.dll
+C:\Users\SYSTEM ERROR\source\repos\Socket_Tunnel\Socket_Tunnel_Client\obj\Debug\net5.0\refint\Socket_Tunnel_Client.dll
+C:\Users\SYSTEM ERROR\source\repos\Socket_Tunnel\Socket_Tunnel_Client\obj\Debug\net5.0\Socket_Tunnel_Client.pdb
+C:\Users\SYSTEM ERROR\source\repos\Socket_Tunnel\Socket_Tunnel_Client\obj\Debug\net5.0\Socket_Tunnel_Client.genruntimeconfig.cache
+C:\Users\SYSTEM ERROR\source\repos\Socket_Tunnel\Socket_Tunnel_Client\obj\Debug\net5.0\ref\Socket_Tunnel_Client.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Socket_Tunnel_Server/1.0.0": {
+        "runtime": {
+          "Socket_Tunnel_Server.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Socket_Tunnel_Server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

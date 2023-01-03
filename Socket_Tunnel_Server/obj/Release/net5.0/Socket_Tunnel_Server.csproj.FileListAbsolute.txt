@@ -1,0 +1,16 @@
+C:\Users\SYSTEM ERROR\source\repos\Socket_Tunnel\Socket_Tunnel_Server\bin\Release\net5.0\Socket_Tunnel_Server.exe
+C:\Users\SYSTEM ERROR\source\repos\Socket_Tunnel\Socket_Tunnel_Server\bin\Release\net5.0\Socket_Tunnel_Server.deps.json
+C:\Users\SYSTEM ERROR\source\repos\Socket_Tunnel\Socket_Tunnel_Server\bin\Release\net5.0\Socket_Tunnel_Server.runtimeconfig.json
+C:\Users\SYSTEM ERROR\source\repos\Socket_Tunnel\Socket_Tunnel_Server\bin\Release\net5.0\Socket_Tunnel_Server.runtimeconfig.dev.json
+C:\Users\SYSTEM ERROR\source\repos\Socket_Tunnel\Socket_Tunnel_Server\bin\Release\net5.0\Socket_Tunnel_Server.dll
+C:\Users\SYSTEM ERROR\source\repos\Socket_Tunnel\Socket_Tunnel_Server\bin\Release\net5.0\Socket_Tunnel_Server.pdb
+C:\Users\SYSTEM ERROR\source\repos\Socket_Tunnel\Socket_Tunnel_Server\obj\Release\net5.0\Socket_Tunnel_Server.csproj.AssemblyReference.cache
+C:\Users\SYSTEM ERROR\source\repos\Socket_Tunnel\Socket_Tunnel_Server\obj\Release\net5.0\Socket_Tunnel_Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SYSTEM ERROR\source\repos\Socket_Tunnel\Socket_Tunnel_Server\obj\Release\net5.0\Socket_Tunnel_Server.AssemblyInfoInputs.cache
+C:\Users\SYSTEM ERROR\source\repos\Socket_Tunnel\Socket_Tunnel_Server\obj\Release\net5.0\Socket_Tunnel_Server.AssemblyInfo.cs
+C:\Users\SYSTEM ERROR\source\repos\Socket_Tunnel\Socket_Tunnel_Server\obj\Release\net5.0\Socket_Tunnel_Server.csproj.CoreCompileInputs.cache
+C:\Users\SYSTEM ERROR\source\repos\Socket_Tunnel\Socket_Tunnel_Server\obj\Release\net5.0\Socket_Tunnel_Server.dll
+C:\Users\SYSTEM ERROR\source\repos\Socket_Tunnel\Socket_Tunnel_Server\obj\Release\net5.0\refint\Socket_Tunnel_Server.dll
+C:\Users\SYSTEM ERROR\source\repos\Socket_Tunnel\Socket_Tunnel_Server\obj\Release\net5.0\Socket_Tunnel_Server.pdb
+C:\Users\SYSTEM ERROR\source\repos\Socket_Tunnel\Socket_Tunnel_Server\obj\Release\net5.0\Socket_Tunnel_Server.genruntimeconfig.cache
+C:\Users\SYSTEM ERROR\source\repos\Socket_Tunnel\Socket_Tunnel_Server\obj\Release\net5.0\ref\Socket_Tunnel_Server.dll
