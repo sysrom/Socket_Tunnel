@@ -13,7 +13,7 @@ namespace TCPServer_Socket
         public static string serverport_c;
         static void Main(string[] args)
         {
-            Console.Title = "HVNC映射";
+            Console.Title = "映射服务端";
             serverport = args[0];
             serverport_c = args[1];
             ThreadPool.QueueUserWorkItem(new WaitCallback(start1));
